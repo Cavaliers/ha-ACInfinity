@@ -1,0 +1,11 @@
+{
+    "domain": "ACInfinity",
+    "name": "ACInfinity",
+    "version": "0.1.0",
+    "documentation": "https://github.com/Cavaliers/ha-ACInfinity",
+    "config_flow": true,
+    "dependencies": [],
+    "issue_tracker": "https://github.com/Cavaliers/ha-ACInfinity",
+    "codeowners": ["@Cavaliers"],
+    "requirements": ["pyusb"]
+  }
